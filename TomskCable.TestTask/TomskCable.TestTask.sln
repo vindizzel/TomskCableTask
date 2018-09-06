@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomskCable.TestTask", "TomskCable.TestTask.csproj", "{F51B0F9D-0161-42BB-B06B-180B7391B367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51B0F9D-0161-42BB-B06B-180B7391B367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51B0F9D-0161-42BB-B06B-180B7391B367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51B0F9D-0161-42BB-B06B-180B7391B367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51B0F9D-0161-42BB-B06B-180B7391B367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEE62729-FBF2-4A46-A6AB-75F33950EBAD}
+	EndGlobalSection
+EndGlobal
